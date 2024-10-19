@@ -112,6 +112,7 @@ h3{
     text-align: center;
 }
 header :hover{
+    font-size: 25px
     rotate: 360deg;
 transition: 3s;
 scale: 0.9;
